@@ -95,7 +95,9 @@ h2{
  text-align: left;
 }
 
-
+.body_text_left p span{
+  background:rgba(255,255,255,0.3);
+}
 
 html { 
   background: url("http://i.imgur.com/ZVuUuUy.jpg") no-repeat center center fixed; 
